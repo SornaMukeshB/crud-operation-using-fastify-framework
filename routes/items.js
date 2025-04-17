@@ -7,7 +7,7 @@ const Item={
         name:{type:'string'},
     },
 }
-// Options for get all items
+// Options for get all items(schemas)
 const getItemsOpts={
     schema:{
         response:{
